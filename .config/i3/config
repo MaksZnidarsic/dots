@@ -91,10 +91,10 @@ bindsym $mod+Shift+9 move container to workspace number $ws9
 bindsym $mod+Shift+0 move container to workspace number $ws10
 
 # class                 border  bground text    indicator child_border
-client.focused          #181818 #181818 #ffffff #181818   #181818
+client.focused          #1e1e2e #1e1e2e #ffffff #1e1e2e   #1e1e2e
 client.focused_inactive #000000 #000000 #ffffff #000000   #000000
 client.unfocused        #000000 #000000 #ffffff #000000   #000000
-client.urgent           #900000 #900000 #ffffff #900000   #900000
+client.urgent           #f38ba8 #f38ba8 #ffffff #f38ba8   #f38ba8
 client.placeholder      #000000 #000000 #ffffff #000000   #000000
 client.background       #ffffff
 
