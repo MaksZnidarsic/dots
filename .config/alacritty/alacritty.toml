@@ -13,8 +13,8 @@
 decorations = "None"
 
 [font]
-normal = {family = "UbuntuMono Nerd Font"}
+normal.family = "UbuntuMono Nerd Font"
 size = 11
 
 [general]
-import = ["~/.config/alacritty/rose-pine.toml"]
+import = ["~/.config/alacritty/catppuccin-mocha.toml"]
